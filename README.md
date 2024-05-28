@@ -1,4 +1,4 @@
-# Awesome-windows[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome-Windows[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # 介绍
 
