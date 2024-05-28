@@ -1,10 +1,8 @@
-# awesome-windows
+# Awesome-windows[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # 介绍
 
 好用的windows软件.
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 # 列表
 
