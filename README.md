@@ -2,8 +2,8 @@
 
 # 介绍
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 好用的windows软件
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 # 列表
 
