@@ -20,8 +20,6 @@
 
 [keepass](https://keepass.com/)
 
-[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/<INSERT LIST URL>)
-
 如果你觉得所有账号都是一个密码不安全。那你可以用这个软件给你每个账号设置不同的密码。他会**在本地**建一个数据库文件给你保存起来。并且数据库文件进行了加密。要想打开这个数据库文件，需要一个开启密码，你可以记在自己觉得保险地方，比如写道纸上。
 
 ## markdown
@@ -99,6 +97,8 @@
 ## 文本编辑器
 
 [sublime text 3](https://www.sublimetext.com/3)
+
+[![Mentioned in Awesome sublime text 3](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 界面好看、内存占用不大的文本编辑器。
 
